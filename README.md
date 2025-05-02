@@ -14,6 +14,7 @@ Built with Python, Streamlit, OpenAI GPT, and Spotify Web API.
 📸 **Demo**
 
 🚀 **Features**
+
 Live Spotify Artist Search
 Search any artist by name, select multiple verified artists directly from Spotify results.
 
@@ -32,15 +33,17 @@ Number of songs (1–100).
 One-click Spotify Playlist Creation
 Automatically saves the curated playlist to your personal Spotify account.
 
-🛠️** Tech Stack**
+🛠️**Tech Stack**
+
 Frontend	Backend	AI Engine	APIs
 Streamlit	Python	OpenAI GPT-3.5 Turbo	Spotify Web API
 
 📦 **Installation**
+
 Clone the repository
 
 
-git clone https://github.com/your-username/genai-playlist-creator.git
+git clone 
 cd genai-playlist-creator
 Create a virtual environment (optional but recommended)
 
@@ -84,6 +87,7 @@ OpenAI API Key
 Internet Connection
 
 ⚡ **How it Works**
+
 Search your favorite artist(s) using the search bar.
 
 Pick from live Spotify results (verified, correct artists).
@@ -94,7 +98,8 @@ AI selects the best-fit songs.
 
 Create and save the playlist directly to your Spotify account!
 
-🙌** Acknowledgements**
+🙌**Acknowledgements**
+
 Streamlit
 
 Spotify Web API
@@ -104,10 +109,12 @@ OpenAI
 Special thanks to everyone who contributed to this ecosystem!
 
 📜 **License**
+
 This project is licensed under the MIT License.
 Feel free to fork, use, and improve it!
 
 ✨ **Future Enhancements**
+
 Playlist cover image generation using AI
 
 Mood prediction based on audio analysis
@@ -117,6 +124,7 @@ Smart shuffle options (slow start → energetic end, etc.)
 Save past playlists and recommend new ones
 
 📬 **Contact**
+
 If you like the project or want to collaborate, feel free to connect:
 
 GitHub: (https://github.com/KamalTeckchandani)
